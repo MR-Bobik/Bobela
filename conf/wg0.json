@@ -1,0 +1,20 @@
+{
+  "server": {
+    "privateKey": "SIqfcgcbarvbo5FBq+fml4NNcmySw8oKPvfnjjYsOWw=",
+    "publicKey": "iY9PNKmHuGfEGQliKH3R82bCMg3WTHGG0Uu0vPFSLks=",
+    "address": "10.8.0.1"
+  },
+  "clients": {
+    "524faf3f-ed59-430a-850e-b2f2579c2c39": {
+      "id": "524faf3f-ed59-430a-850e-b2f2579c2c39",
+      "name": "wg0",
+      "address": "10.8.0.2",
+      "privateKey": "iIPBInilFoCbx69nDxJIJV+nra2CRTYx+CxT3SSZo3Q=",
+      "publicKey": "ONAGz5poyncdye9OZKNpztC0suJZ4ny9JXY/UK5SkiA=",
+      "preSharedKey": "9I4p9VLJw2ordk/BbhL13uh6SxEzxIChG0isywt3EWI=",
+      "createdAt": "2024-12-03T22:09:57.282Z",
+      "updatedAt": "2024-12-03T22:09:57.282Z",
+      "enabled": true
+    }
+  }
+}
